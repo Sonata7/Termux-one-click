@@ -27,7 +27,9 @@ echo "min saw nga pay pa lar"
 apt install bash -y
 apt install clang -y
 apt install jq -y
-apt install macchanger -y
+
+
+#wana take a look inside
 
 echo "Sa tar naw"
 
